@@ -1,0 +1,66 @@
+# https://www.robotstxt.org/robotstxt.html
+
+# ==============================================
+# ROBOTS.TXT - Dr. Carlos Beiner
+# ==============================================
+
+# Permitir todos los bots de búsqueda tradicionales
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+# ==============================================
+# BOTS DE BÚSQUEDA GENERATIVA (GEO) - PERMITIDOS
+# Estos bots hacen búsquedas en vivo para usuarios
+# ==============================================
+
+# ChatGPT Search (búsqueda en vivo)
+User-agent: OAI-SearchBot
+Allow: /
+
+# ChatGPT navegación de usuarios
+User-agent: ChatGPT-User
+Allow: /
+
+# Perplexity AI Search
+User-agent: PerplexityBot
+Allow: /
+
+# Google AI (Gemini)
+User-agent: Google-Extended
+Allow: /
+
+# ==============================================
+# BOTS DE ENTRENAMIENTO IA - BLOQUEADOS (opcional)
+# Descomenta si NO quieres que entrenen con tu contenido
+# ==============================================
+
+# User-agent: GPTBot
+# Disallow: /
+
+# User-agent: CCBot
+# Disallow: /
+
+# User-agent: anthropic-ai
+# Disallow: /
+
+# ==============================================
+# REGLA GENERAL - Permitir todo por defecto
+# ==============================================
+
+User-agent: *
+Allow: /
+
+# No indexar parámetros de búsqueda o filtros
+Disallow: /*?*
+
+# Sitemap
+Sitemap: https://dr-carlos-beiner.vercel.app/sitemap.xml

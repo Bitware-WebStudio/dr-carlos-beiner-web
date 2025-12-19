@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --primary: #0066FF;
+  --secondary: #00D9C5;
+  --support: #52C6F5;
+  --accent-purple: #C9B3E5;
+  --accent-yellow: #FFD700;
+}
+
+@layer base {
+  body {
+    @apply text-neutral-800 bg-white antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-display font-semibold;
+  }
+
+  h1 {
+    @apply text-4xl md:text-5xl lg:text-6xl;
+  }
+
+  h2 {
+    @apply text-3xl md:text-4xl lg:text-5xl;
+  }
+
+  h3 {
+    @apply text-2xl md:text-3xl;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary hover:bg-primary-600 text-white font-medium px-6 py-3 rounded-xl transition-all duration-300 shadow-soft hover:shadow-glow;
+  }
+
+  .btn-secondary {
+    @apply bg-secondary hover:bg-secondary-600 text-white font-medium px-6 py-3 rounded-xl transition-all duration-300 shadow-soft hover:shadow-glow-secondary;
+  }
+
+  .btn-outline {
+    @apply border-2 border-primary text-primary hover:bg-primary hover:text-white font-medium px-6 py-3 rounded-xl transition-all duration-300;
+  }
+
+  .card {
+    @apply bg-white rounded-2xl shadow-soft border border-neutral-100 p-6 transition-all duration-300 hover:shadow-xl;
+  }
+
+  .gradient-primary {
+    @apply bg-gradient-to-br from-primary via-support to-secondary;
+  }
+
+  .gradient-soft {
+    @apply bg-gradient-to-br from-primary-50 via-support-50 to-secondary-50;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

@@ -1,0 +1,38 @@
+# Dr. Carlos Beiner - Dentista en Providencia
+
+Información esencial para pacientes sobre cirugía bucal, muelas del juicio, urgencias e implantes dentales.
+
+## Páginas Principales
+- [Inicio](https://drcarlosbeiner.cl/)
+- [Servicios](https://drcarlosbeiner.cl/servicios)
+- [Ubicación](https://drcarlosbeiner.cl/ubicacion)
+- [Contacto](https://drcarlosbeiner.cl/contacto)
+
+## Tratamientos Especializados
+- [Cirugía Muelas del Juicio](https://drcarlosbeiner.cl/tratamientos/muelas-del-juicio)
+- [Urgencias Dentales 24/7](https://drcarlosbeiner.cl/tratamientos/urgencias-dentales)
+- [Implantes Dentales](https://drcarlosbeiner.cl/tratamientos/implantes)
+
+## Guías - Muelas del Juicio
+- [¿Si no duelen hay que sacarlas?](https://drcarlosbeiner.cl/tratamientos/muelas-del-juicio/guias/si-no-duelen)
+- [¿Cuánto dura la hinchazón?](https://drcarlosbeiner.cl/tratamientos/muelas-del-juicio/guias/cuanto-dura-hinchazon)
+- [Fumar o vapear después de cirugía](https://drcarlosbeiner.cl/tratamientos/muelas-del-juicio/guias/fumar-vapear)
+- [Extracción de 4 muelas en una sesión](https://drcarlosbeiner.cl/tratamientos/muelas-del-juicio/guias/4-muelas-misma-sesion)
+- [Riesgo de pérdida de sensibilidad](https://drcarlosbeiner.cl/tratamientos/muelas-del-juicio/guias/riesgo-sensibilidad)
+- [Guía de recuperación rápida](https://drcarlosbeiner.cl/tratamientos/muelas-del-juicio/guias/recuperacion-rapida)
+
+## Guías - Urgencias Dentales
+- [¿Cómo saber si es una urgencia real?](https://drcarlosbeiner.cl/tratamientos/urgencias-dentales/guias/es-urgencia-real)
+- [Cara hinchada y antibióticos](https://drcarlosbeiner.cl/tratamientos/urgencias-dentales/guias/cara-hinchada-antibioticos)
+- [Dolor nocturno: qué hacer](https://drcarlosbeiner.cl/tratamientos/urgencias-dentales/guias/dolor-nocturno)
+- [¿Siempre hay que sacar el diente?](https://drcarlosbeiner.cl/tratamientos/urgencias-dentales/guias/siempre-sacan-diente)
+- [Diente caído por golpe](https://drcarlosbeiner.cl/tratamientos/urgencias-dentales/guias/diente-caido-golpe)
+- [Infección dental: tiempos de espera](https://drcarlosbeiner.cl/tratamientos/urgencias-dentales/guias/infeccion-cuanto-esperar)
+
+## Guías - Implantes Dentales
+- [¿Duele ponerse un implante?](https://drcarlosbeiner.cl/tratamientos/implantes/guias/duele-ponerse)
+- [¿Quedaré sin dientes durante el tratamiento?](https://drcarlosbeiner.cl/tratamientos/implantes/guias/quedare-sin-dientes)
+- [¿Puede el cuerpo rechazar un implante?](https://drcarlosbeiner.cl/tratamientos/implantes/guias/rechazo-implante)
+- [¿Cuánto duran los implantes?](https://drcarlosbeiner.cl/tratamientos/implantes/guias/cuanto-duran)
+- [Implante vs Puente vs Prótesis](https://drcarlosbeiner.cl/tratamientos/implantes/guias/implante-vs-puente-protesis)
+- [Costo de implantes](https://drcarlosbeiner.cl/tratamientos/implantes/guias/costo-implantes)

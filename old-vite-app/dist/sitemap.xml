@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Páginas Principales -->
+    <url><loc>https://drcarlosbeiner.cl/</loc><priority>1.0</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/servicios</loc><priority>0.9</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/ubicacion</loc><priority>0.8</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/contacto</loc><priority>0.9</priority></url>
+
+    <!-- Tratamientos -->
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/muelas-del-juicio</loc><priority>0.8</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/urgencias-dentales</loc><priority>0.8</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/implantes</loc><priority>0.8</priority></url>
+
+    <!-- Guías - Muelas del Juicio -->
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/muelas-del-juicio/guias/si-no-duelen</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/muelas-del-juicio/guias/cuanto-dura-hinchazon</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/muelas-del-juicio/guias/fumar-vapear</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/muelas-del-juicio/guias/4-muelas-misma-sesion</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/muelas-del-juicio/guias/riesgo-sensibilidad</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/muelas-del-juicio/guias/recuperacion-rapida</loc><priority>0.6</priority></url>
+
+    <!-- Guías - Urgencias Dentales -->
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/urgencias-dentales/guias/es-urgencia-real</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/urgencias-dentales/guias/cara-hinchada-antibioticos</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/urgencias-dentales/guias/dolor-nocturno</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/urgencias-dentales/guias/siempre-sacan-diente</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/urgencias-dentales/guias/diente-caido-golpe</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/urgencias-dentales/guias/infeccion-cuanto-esperar</loc><priority>0.6</priority></url>
+
+    <!-- Guías - Implantes Dentales -->
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/implantes/guias/duele-ponerse</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/implantes/guias/quedare-sin-dientes</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/implantes/guias/rechazo-implante</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/implantes/guias/cuanto-duran</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/implantes/guias/implante-vs-puente-protesis</loc><priority>0.6</priority></url>
+    <url><loc>https://drcarlosbeiner.cl/tratamientos/implantes/guias/costo-implantes</loc><priority>0.6</priority></url>
+</urlset>
