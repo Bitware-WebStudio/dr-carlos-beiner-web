@@ -26,7 +26,7 @@ export default function DoctorBio() {
     ];
 
     return (
-        <section id="doctor" className="py-20 gradient-soft scroll-mt-32">
+        <section id="doctor" className="py-20 gradient-soft scroll-mt-32 overflow-hidden">
             <div className="container mx-auto px-4">
                 <div className="grid lg:grid-cols-2 gap-12 items-center">
                     <div className="order-2 lg:order-1">
