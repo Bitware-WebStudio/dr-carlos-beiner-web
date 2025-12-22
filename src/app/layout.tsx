@@ -212,7 +212,6 @@ export default function RootLayout({
         <main>{children}</main>
         <Footer />
         <StickyCTA />
-        <WhatsAppButton />
       </body>
     </html>
   );

@@ -1,9 +1,9 @@
-// Versión 1.0.3 - Explicit Mobile Fix Deployment
+// Versión 1.0.4 - Unified Mobile Button & refined message
 export const CONTACT_INFO = {
     whatsappNumber: '56933850580', // +56 9 3385 0580
     bookingUrl: 'https://dentalink.cl/agendar', // Placeholder: {{BOOKING_URL}}
     whatsappMessage: encodeURIComponent('Hola Dr. Carlos, te contacto desde tu página web para solicitar más información sobre una atención...'),
-    evaluationMessage: encodeURIComponent('Hola Dr. Carlos, me gustaría agendar una evaluación dental. ¿Qué horas tienes disponibles?'),
+    evaluationMessage: encodeURIComponent('Hola, me comunico desde su sitio web. Me gustaría agendar una evaluación dental con el Dr. Carlos Beiner.'),
     googleMapsUrl: 'https://maps.google.com/?q=Dr+Carlos+Beiner', // Placeholder: {{MAPS_URL}}
 };
 
