@@ -1,4 +1,4 @@
-// Versión 1.0.6 - Added scroll-based visibility for mobile sticky CTA
+// Versión 1.0.7 - Added padding to footer to prevent overlap with sticky CTA
 export const CONTACT_INFO = {
     whatsappNumber: '56933850580', // +56 9 3385 0580
     bookingUrl: 'https://dentalink.cl/agendar', // Placeholder: {{BOOKING_URL}}
