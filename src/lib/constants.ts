@@ -1,4 +1,4 @@
-// Versión 1.0.2 - Force redeploy mobile fixes
+// Versión 1.0.3 - Explicit Mobile Fix Deployment
 export const CONTACT_INFO = {
     whatsappNumber: '56933850580', // +56 9 3385 0580
     bookingUrl: 'https://dentalink.cl/agendar', // Placeholder: {{BOOKING_URL}}
