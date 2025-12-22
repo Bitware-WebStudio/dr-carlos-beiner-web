@@ -1,4 +1,4 @@
-// Versión 1.0.4 - Unified Mobile Button & refined message
+// Versión 1.0.5 - Trigger redeploy after Vercel/GitHub reconnection
 export const CONTACT_INFO = {
     whatsappNumber: '56933850580', // +56 9 3385 0580
     bookingUrl: 'https://dentalink.cl/agendar', // Placeholder: {{BOOKING_URL}}
