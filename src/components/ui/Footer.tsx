@@ -81,7 +81,6 @@ export default function Footer() {
 
                 <div className="border-t border-neutral-800 mt-8 pt-8 text-center text-neutral-500 text-sm">
                     <p>&copy; {new Date().getFullYear()} Dr. Carlos Beiner Mangiamarchi. Todos los derechos reservados.</p>
-                    <p className="mt-2 text-xs">A pasos de Metro Pedro de Valdivia</p>
                     <div className="mt-4 flex justify-center">
                         <a href="https://webstudio.bitware-ai.cl/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center space-x-1 text-neutral-500 hover:text-secondary transition-colors text-xs">
                             <span>Hecho por WebStudio con</span>
