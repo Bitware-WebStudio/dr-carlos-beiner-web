@@ -1,8 +1,33 @@
+'use client';
+
+import { useEffect, useState } from 'react';
 import Image from 'next/image';
-import { Calendar, Zap, MessageCircle } from 'lucide-react';
+import { Calendar, Zap, MessageCircle, Star } from 'lucide-react';
 import { CONTACT_INFO, PLACEHOLDERS } from '@/lib/constants';
 
 export default function VideoHero() {
+    const [rating, setRating] = useState<number | null>(null);
+
+    useEffect(() => {
+        async function fetchRating() {
+            try {
+                const response = await fetch('/api/reviews');
+                if (response.ok) {
+                    const data = await response.json();
+                    if (data.rating) {
+                        setRating(data.rating);
+                    }
+                }
+            } catch (error) {
+                // Silently fail - use fallback rating
+                console.error('Failed to fetch rating:', error);
+            }
+        }
+        fetchRating();
+    }, []);
+
+    const displayRating = rating || parseFloat(PLACEHOLDERS.rating);
+
     return (
         <div className="relative h-[85vh] min-h-[600px] w-full overflow-hidden">
             {/* Poster Image for LCP optimization */}
@@ -61,8 +86,16 @@ export default function VideoHero() {
 
                             </div>
 
-                            <div className="mt-12 flex items-center space-x-6 text-white/80 text-sm font-medium">
-                                <span>⭐ 4.9 en Google Reviews</span>
+                            <div className="mt-12 flex items-center space-x-2 text-white/90 text-sm font-semibold">
+                                <div className="flex items-center gap-1">
+                                    {[...Array(5)].map((_, i) => (
+                                        <Star
+                                            key={i}
+                                            className="w-4 h-4 text-yellow-400 fill-yellow-400"
+                                        />
+                                    ))}
+                                </div>
+                                <span>{displayRating.toFixed(1)} en Google Reviews</span>
                             </div>
                         </div>
                     </div>
