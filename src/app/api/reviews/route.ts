@@ -1,4 +1,4 @@
-export const revalidate = 60 * 60 * 6; // 6 horas - Actualizado: 2025-12-29T15:52:31-03:00
+export const revalidate = 21600; // 6 horas
 
 export async function GET() {
     const apiKey = process.env.GOOGLE_MAPS_API_KEY;
